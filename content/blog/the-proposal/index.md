@@ -1,9 +1,12 @@
 ---
-title: You, Me, and Gravity
+title: The Proposal
 date: '2019-01-29T13:01:03.284Z'
 subtitle: ""
 ---
 <meta charset='utf-8'>
+
+
+<a href="https://docs.google.com/presentation/d/1fUvqI3LphGbBrgFzV5nnTQu2F_2tRae9h564b4szXx0/edit?usp=sharing">Link to Midterm Presentation</a>
 
 Before I start talking about programming, I have one last thing to discuss. Apparently, developing a ray tracing renderer from scratch is NOT ENOUGH, and part of my grade is dependent on extending the renderer in a unique way.
 

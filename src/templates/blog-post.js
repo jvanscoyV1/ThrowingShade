@@ -13,7 +13,7 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext
     console.log(post);
     return (
-    <div style={{backgroundImage: "linear-gradient(112.7deg,#a2f7f1 .3%,#c792ff 88.7%)"}}>
+    <div style={{minHeight:"100vh",backgroundImage: "linear-gradient(112.7deg,#a2f7f1 .3%,#c792ff 88.7%)"}}>
     <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
