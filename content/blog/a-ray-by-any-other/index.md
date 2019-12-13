@@ -29,49 +29,46 @@ With this list, I'll be able to develop a much better idea of what functionality
         </ul>
 
 ![Reflection](./reflection.jpg)
-    </li>
-    <li>
-        <h5>Refraction</h5>
-        The bending of light as it moves through different media. 
-    </li>
+
+</li>
+<li>
+<h5>Refraction</h5>
+The bending of light as it moves through different media.
+</li>
 
 ![Refraction2](./refraction2.jpg)
-    <li>
-        <h5>Scattering</h5>
-        Light is scattered by small particles in its path (smoke, clouds, etc.)
-        Atmospheric Scattering can be further broken down into two types:
-        <ul>
-            <li>
-                Rayleigh scattering - preferentially scatters light at the blue wavelength (this is what makes our sky blue).
-            </li>
-            <li>
-                Mie scattering - caused by water vapor, fumes, smoke, and dust (this gives sunsets that sexy red/orange look).
+
+<li>
+<h5>Scattering</h5>
+Light is scattered by small particles in its path (smoke, clouds, etc.)
+Atmospheric Scattering can be further broken down into two types:
+<ul>
+<li>
+Rayleigh scattering - preferentially scatters light at the blue wavelength (this is what makes our sky blue).
+</li>
+<li>
+Mie scattering - caused by water vapor, fumes, smoke, and dust (this gives sunsets that sexy red/orange look).
 
 ![Scattering](./scattering.png)
-            </li>
-        </ul>
-    </li>
-    <li>
-        <h5>Diffraction</h5>
-        The bending of light around objects, this contributes to soft shadows/color bleeding
-![Diffraction](./diffraction.png) 
-    </li>
-    <li>
-        <h5>Interferance</h5>
-        The superimposition of two waves. This can be constructive or destructive, depending on how the peaks and troughs of the waves line up <br>(peak / peak = constructive, peak / trough = destructive)
+
+</li>
+</ul>
+</li>
+<li>
+<h5>Diffraction</h5>
+The bending of light around objects, this contributes to soft shadows/color bleeding
+![Diffraction](./diffraction.png)
+</li>
+<li>
+<h5>Interferance</h5>
+The superimposition of two waves. This can be constructive or destructive, depending on how the peaks and troughs of the waves line up <br>(peak / peak = constructive, peak / trough = destructive)
 ![Interferance](./interferance.png)
-    </li>
+</li>
+
 </ul>
 
 Note: each of these interactions are dependent on the wavelength of the light, meaning the nitty gritties can change from color to color.
 
-
-
 <h3>Next Time:</h3> 
 Deciding on a programming language, and setting up a basic scene.
 <div style="height: 50px"></div>
-
-
-
-
-

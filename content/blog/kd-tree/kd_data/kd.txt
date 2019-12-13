@@ -1,0 +1,5 @@
+Objects in KDTree: 4001
+KDTree constructed in: 00:00:00.0616881
+Rendering single 1000x1000 image...
+Done!
+Rendered in: 1 Minutes, 59.569 Seconds

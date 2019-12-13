@@ -1,0 +1,354 @@
+Building k-d tree...
+IN: Split Axis: 0
+    IN: Split Axis: 1
+        IN: Split Axis: 2
+            IN: Split Axis: 0
+                IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        LN: #Obj: 9
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                LN: #Obj: 9
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 7
+                                     LN: #Obj: 14
+                             LN: #Obj: 6
+                     IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 11
+                                     LN: #Obj: 26
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 29
+                                     LN: #Obj: 17
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 10
+                                     LN: #Obj: 8
+                                 LN: #Obj: 8
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 38
+                                     LN: #Obj: 32
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 59
+                                     LN: #Obj: 35
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 10
+                                     LN: #Obj: 29
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 49
+                                     LN: #Obj: 39
+                 IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 4
+                                     LN: #Obj: 17
+                                 LN: #Obj: 8
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 6
+                                     LN: #Obj: 11
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 14
+                                     LN: #Obj: 2
+                         IN: Split Axis: 0
+                            LN: #Obj: 6
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 6
+                                     LN: #Obj: 10
+                                 LN: #Obj: 5
+                     IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 7
+                                     LN: #Obj: 29
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 15
+                                     LN: #Obj: 8
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 5
+                                     LN: #Obj: 26
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 8
+                                     LN: #Obj: 9
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                LN: #Obj: 7
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 21
+                                     LN: #Obj: 11
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 13
+                                     LN: #Obj: 5
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 9
+                                     LN: #Obj: 15
+             IN: Split Axis: 0
+                IN: Split Axis: 1
+                    LN: #Obj: 2
+                     IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 10
+                                     LN: #Obj: 9
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 18
+                                     LN: #Obj: 13
+                             LN: #Obj: 5
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 15
+                                     LN: #Obj: 69
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 5
+                                     LN: #Obj: 25
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 23
+                                     LN: #Obj: 4
+                                 LN: #Obj: 6
+                 IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            LN: #Obj: 6
+                             IN: Split Axis: 1
+                                LN: #Obj: 9
+                                 LN: #Obj: 4
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                LN: #Obj: 2
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 2
+                                     LN: #Obj: 16
+                             IN: Split Axis: 1
+                                LN: #Obj: 4
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 12
+                                     LN: #Obj: 14
+                     IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 10
+                                     LN: #Obj: 23
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 56
+                                     LN: #Obj: 25
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 5
+                                     LN: #Obj: 10
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 23
+                                     LN: #Obj: 12
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                LN: #Obj: 7
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 64
+                                     LN: #Obj: 67
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 13
+                                     LN: #Obj: 16
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 12
+                                     LN: #Obj: 34
+         IN: Split Axis: 2
+            IN: Split Axis: 0
+                IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 12
+                                     LN: #Obj: 11
+                                 LN: #Obj: 8
+                             LN: #Obj: 4
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 13
+                                     LN: #Obj: 16
+                                 LN: #Obj: 8
+                             IN: Split Axis: 1
+                                LN: #Obj: 9
+                                 LN: #Obj: 7
+                     IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                LN: #Obj: 8
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 10
+                                     LN: #Obj: 21
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 25
+                                     LN: #Obj: 6
+                                 LN: #Obj: 6
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 13
+                                     LN: #Obj: 9
+                                 LN: #Obj: 9
+                             LN: #Obj: 9
+                 IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        LN: #Obj: 6
+                         IN: Split Axis: 0
+                            LN: #Obj: 6
+                             IN: Split Axis: 1
+                                LN: #Obj: 4
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 11
+                                     LN: #Obj: 11
+                     IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 19
+                                     LN: #Obj: 3
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 11
+                                     LN: #Obj: 8
+                             LN: #Obj: 5
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                LN: #Obj: 7
+                                 LN: #Obj: 8
+                             LN: #Obj: 5
+             IN: Split Axis: 0
+                IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 14
+                                     LN: #Obj: 13
+                                 LN: #Obj: 6
+                             LN: #Obj: 6
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 13
+                                     LN: #Obj: 15
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 17
+                                     LN: #Obj: 22
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 48
+                                     LN: #Obj: 14
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 5
+                                     LN: #Obj: 37
+                     IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 20
+                                     LN: #Obj: 28
+                                 LN: #Obj: 9
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 18
+                                     LN: #Obj: 13
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 6
+                                     LN: #Obj: 28
+                         IN: Split Axis: 0
+                            LN: #Obj: 5
+                             IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 12
+                                     LN: #Obj: 34
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 11
+                                     LN: #Obj: 12
+                 IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                LN: #Obj: 9
+                                 LN: #Obj: 9
+                             IN: Split Axis: 1
+                                LN: #Obj: 9
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 10
+                                     LN: #Obj: 2
+                         LN: #Obj: 7
+                     LN: #Obj: 6
+     IN: Split Axis: 1
+        IN: Split Axis: 2
+            IN: Split Axis: 0
+                IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                IN: Split Axis: 2
+                                    LN: #Obj: 15
+                                     LN: #Obj: 3
+                                 LN: #Obj: 3
+                             LN: #Obj: 6
+                         LN: #Obj: 8
+                     LN: #Obj: 5
+                 LN: #Obj: 8
+             IN: Split Axis: 0
+                IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                LN: #Obj: 7
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 8
+                                     LN: #Obj: 6
+                             LN: #Obj: 9
+                         IN: Split Axis: 0
+                            IN: Split Axis: 1
+                                LN: #Obj: 9
+                                 LN: #Obj: 6
+                             LN: #Obj: 3
+                     IN: Split Axis: 2
+                        LN: #Obj: 6
+                         IN: Split Axis: 0
+                            LN: #Obj: 8
+                             IN: Split Axis: 1
+                                LN: #Obj: 7
+                                 IN: Split Axis: 2
+                                    LN: #Obj: 7
+                                     LN: #Obj: 9
+                 LN: #Obj: 8
+         IN: Split Axis: 2
+            IN: Split Axis: 0
+                IN: Split Axis: 1
+                    LN: #Obj: 6
+                     LN: #Obj: 8
+                 LN: #Obj: 5
+             IN: Split Axis: 0
+                LN: #Obj: 7
+                 IN: Split Axis: 1
+                    IN: Split Axis: 2
+                        IN: Split Axis: 0
+                            LN: #Obj: 9
+                             LN: #Obj: 6
+                         LN: #Obj: 8
+                     LN: #Obj: 2
+
+Objects in KDTree: 648
+KDTree constructed in: 00:00:00.2151792
+Rendering single image...
+Done!
+Rendered in: 10.664 Seconds
